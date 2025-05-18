@@ -53,10 +53,18 @@ button:hover {
   text-align: center;
 }
 
+h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  white-space: nowrap;
+}
+
 @media (max-width: 500px) {
   h1 {
-    font-size: 1.8rem;
+    font-size: 2rem;
   }
+}
+
 
   #timer {
     font-size: 2.8rem;
