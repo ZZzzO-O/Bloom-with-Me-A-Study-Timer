@@ -1,4 +1,4 @@
-const studyImage = 'https://i.pinimg.com/736x/20/3f/a8/203fa8a60f3b11f449651445431daaae.jpg';
+const studyImage = 'https://i.pinimg.com/originals/ed/a6/9a/eda69a86160621122cedfeb9a67e51f3.jpg';
 const restImage = 'https://external-preview.redd.it/hcTFboQgKn-3vES5nTwr-3ZUqwhQ4sZk5SXQs0emZxg.jpg?width=1080&crop=smart&auto=webp&s=1c81a5d815863a59b5b357fa1279fdb1ef64a372';
 const resetImage = 'https://img.freepik.com/free-photo/laptop-notebooks-girls-bed_53876-153294.jpg?semt=ais_hybrid&w=740';
 const doneImage = 'https://i.pinimg.com/1200x/05/17/1a/05171a8dfe286ef7a2e90383f312162d.jpg'; // Add your done image URL
